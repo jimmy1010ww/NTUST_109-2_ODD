@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\code\CS1010301HW04\TS0405\Source.cpp(53,10): warning C4244: 'return': 將 'll' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  TS0405.vcxproj -> D:\code\CS1010301HW04\x64\Debug\TS0405.exe

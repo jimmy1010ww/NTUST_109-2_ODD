@@ -1,0 +1,7 @@
+﻿  Source.cpp
+E:\code\物件導向程式設計\CS1010301HW03\TS0303\Source.cpp(20,33): warning C4267: '=': 將 'size_t' 轉換為 'unsigned int'，資料可能遺失
+E:\code\物件導向程式設計\CS1010301HW03\TS0303\Source.cpp(30,47): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\code\物件導向程式設計\CS1010301HW03\TS0303\Source.cpp(84,43): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\code\物件導向程式設計\CS1010301HW03\TS0303\Source.cpp(87,39): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\code\物件導向程式設計\CS1010301HW03\TS0303\Source.cpp(130,39): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0303.vcxproj -> E:\code\物件導向程式設計\CS1010301HW03\x64\Debug\TS0303.exe

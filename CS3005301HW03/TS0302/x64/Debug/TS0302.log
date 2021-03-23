@@ -1,0 +1,3 @@
+﻿  textBasedHistogram.cpp
+E:\code\物件導向程式設計\CS3005301HW03\TS0302\textBasedHistogram.cpp(98,28): warning C4244: '=': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  TS0302.vcxproj -> E:\code\物件導向程式設計\CS3005301HW03\x64\Debug\TS0302.exe

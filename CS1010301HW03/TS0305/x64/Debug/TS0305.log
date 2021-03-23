@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\code\CS1010301HW03\TS0305\main.cpp(163,10): warning C4101: 'y': 未參考的區域變數
+E:\code\CS1010301HW03\TS0305\main.cpp(163,7): warning C4101: 'x': 未參考的區域變數
+E:\code\CS1010301HW03\TS0305\main.cpp(258,31): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+E:\code\CS1010301HW03\TS0305\main.cpp(259,31): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0305.vcxproj -> E:\code\CS1010301HW03\x64\Debug\TS0305.exe
