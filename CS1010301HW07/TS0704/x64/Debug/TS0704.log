@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\code\NTUST_109-2_ODD\CS1010301HW07\TS0704\Source.cpp(15,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\code\NTUST_109-2_ODD\CS1010301HW07\TS0704\Source.cpp(16,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TS0704.vcxproj -> E:\code\NTUST_109-2_ODD\CS1010301HW07\x64\Debug\TS0704.exe

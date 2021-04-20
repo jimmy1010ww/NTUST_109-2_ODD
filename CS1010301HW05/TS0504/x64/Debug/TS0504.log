@@ -1,2 +1,3 @@
 ﻿  Source.cpp
-  TS0504.vcxproj -> E:\code\物件導向程式設計\CS1010301HW05\x64\Debug\TS0504.exe
+E:\code\NTUST_109-2_ODD\CS1010301HW05\TS0504\Source.cpp(24,10): warning C4101: 'n': unreferenced local variable
+  TS0504.vcxproj -> E:\code\NTUST_109-2_ODD\CS1010301HW05\x64\Debug\TS0504.exe

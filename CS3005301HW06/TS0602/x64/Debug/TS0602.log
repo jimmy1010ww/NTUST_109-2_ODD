@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol "public: class PrimeNumber & __cdecl PrimeNumber::operator++(void)" (??EPrimeNumber@@QEAAAEAV0@XZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: class PrimeNumber __cdecl PrimeNumber::operator++(int)" (??EPrimeNumber@@QEAA?AV0@H@Z) referenced in function main
+E:\code\NTUST_109-2_ODD\CS3005301HW06\x64\Debug\TS0602.exe : fatal error LNK1120: 2 unresolved externals

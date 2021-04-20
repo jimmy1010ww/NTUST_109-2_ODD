@@ -1,0 +1,3 @@
+﻿  Atoi.cpp
+E:\code\NTUST_109-2_ODD\CS3005301HW07\TS0702\Atoi.cpp(25,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  TS0702.vcxproj -> E:\code\NTUST_109-2_ODD\CS3005301HW07\x64\Debug\TS0702.exe

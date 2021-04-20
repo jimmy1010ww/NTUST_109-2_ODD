@@ -1,0 +1,8 @@
+﻿  Creature.cpp
+E:\code\NTUST_109-2_ODD\CS1010301HW06\TS0605\Creature.cpp(90,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\code\NTUST_109-2_ODD\CS1010301HW06\TS0605\Creature.cpp(147,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\code\NTUST_109-2_ODD\CS1010301HW06\TS0605\Creature.cpp(154,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Diary.cpp
+  main.cpp
+  Generating Code...
+  TS0605.vcxproj -> E:\code\NTUST_109-2_ODD\CS1010301HW06\x64\Debug\TS0605.exe

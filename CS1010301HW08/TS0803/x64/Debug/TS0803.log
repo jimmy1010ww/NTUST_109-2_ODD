@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\code\NTUST_109-2_ODD\CS1010301HW08\TS0803\Source.cpp(29,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\code\NTUST_109-2_ODD\CS1010301HW08\TS0803\Source.cpp(50,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\code\NTUST_109-2_ODD\CS1010301HW08\TS0803\Source.cpp(78,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\code\NTUST_109-2_ODD\CS1010301HW08\TS0803\Source.cpp(82,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  TS0803.vcxproj -> E:\code\NTUST_109-2_ODD\CS1010301HW08\x64\Debug\TS0803.exe

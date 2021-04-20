@@ -1,0 +1,6 @@
+﻿  Shisensho.cpp
+E:\code\NTUST_109-2_ODD\CS1010301HW07\TS0706\Shisensho.cpp(162,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\code\NTUST_109-2_ODD\CS1010301HW07\TS0706\Shisensho.cpp(163,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\code\NTUST_109-2_ODD\CS1010301HW07\TS0706\Shisensho.cpp(170,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\code\NTUST_109-2_ODD\CS1010301HW07\TS0706\Shisensho.cpp(171,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  TS0706.vcxproj -> E:\code\NTUST_109-2_ODD\CS1010301HW07\x64\Debug\TS0706.exe
